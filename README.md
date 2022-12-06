@@ -5,7 +5,7 @@ const lucianogarriga = {
   pronouns: "he" | "him",
   code: [Solidity, Javascript, HTML, CSS],
   tools: [React, Node, Styled-Components, Bootstrap, SASS],
-  challenge: "I'm doing the Alchemy Web3 Degree to become a Blockchain Developer"
+  challenge: [Student at Alchemy University - Web3 Bootcamp]
 }
 ```
 -  I'm a Frontend and Solidity developer in progress.
