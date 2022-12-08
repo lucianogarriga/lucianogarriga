@@ -1,4 +1,6 @@
-### Hi, I’m Luciano 👋:curly_haired_man::computer:
+## Hi, I’m Luciano 👋:curly_haired_man::computer:
+
+### About me in code
 
 ``` js
 const lucianogarriga = {
@@ -15,7 +17,7 @@ const lucianogarriga = {
 
 [![lucianogarriga's github stats](https://github-readme-stats.vercel.app/api?username=lucianogarriga)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find me :earth_americas::
+### You can find me :earth_americas::
 - [LinkedIn](https://www.linkedin.com/in/lucianogarriga)
 - [E-mail](lucianomgarriga@gmail.com)
 - [Twitter](https://twitter.com/luchogarriga)
