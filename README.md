@@ -27,11 +27,7 @@ const lucianogarriga = {
 }
 ```
 
-
-[![lucianogarriga's github stats](https://github-readme-stats.vercel.app/api?username=lucianogarriga)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianogarriga&show_icons=true&locale=en&layout=compact" alt="lucianogarriga" />
-
+[//]: <[![lucianogarriga's github stats](https://github-readme-stats.vercel.app/api?username=lucianogarriga)](https://github.com/anuraghazra/github-readme-stats)> 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianogarriga&" alt="lucianogarriga" />
 
