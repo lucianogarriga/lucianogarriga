@@ -41,6 +41,42 @@ const lucianogarriga = {
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianogarriga&" alt="lucianogarriga" />
 
+
+
+<br> 
+
+## Basic built-in terminal commands
+
+| Command | Description |
+| ------  | ------ |
+| cd      | Move around your directory structure |
+| mkdir   | Create directories |
+| touch   | Create files |
+| cp      | Copy files |
+| mv      | Move files |
+| rm      | Delete files |
+
+<br>
+
+## Alias Shell Command
+<br>
+
+### 1. Alias '**rm**'
+This alias is to avoid permanently deleting files.
+
+  ```sh
+    alias rm = "trash"
+  ```
+
+  ### 2. Alias '**cl**'  
+This alias is to clean the terminal interface temporaly.
+
+  ```sh
+    alias cl = "clear"
+  ```
+------
+<br>
+
 ### You can find me :earth_americas::
 - [LinkedIn](https://www.linkedin.com/in/lucianogarriga)
 - [E-mail](lucianomgarriga@gmail.com)
