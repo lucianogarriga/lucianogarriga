@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate Frontend & Blockchain developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p> -->
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 
@@ -59,7 +60,6 @@ const lucianogarriga = {
 <br>
 
 ## Alias Shell Command
-<br>
 
 ### 1. Alias '**rm**'
 This alias is to avoid permanently deleting files.
@@ -75,7 +75,6 @@ This alias is to clean the terminal interface temporaly.
     alias cl = "clear"
   ```
 ------
-<br>
 
 ### You can find me :earth_americas::
 - [LinkedIn](https://www.linkedin.com/in/lucianogarriga)
