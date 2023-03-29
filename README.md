@@ -2,15 +2,13 @@
 
 <h3 align="center">A passionate Frontend & Blockchain developer </h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 
-
-- 👀 I’m interested in blockchain and web3 development.
-- 🌱 I’m currently learning about solidity and smart contracts. 
-- 👀 I’m looking to collaborate on frontend project, or any blockchain project with EVM compatibility.
+- 🌱 I’m currently learning in the "**Fullstack JavaScript Bootcamp**" of Undefined Academy (Guillermo Rodas). 
+- 👀 I’m looking to collaborate on frontend web development project, or any blockchain project with EVM compatibility.
 
 
 <h3 align="left">Languages and Tools:</h3>
