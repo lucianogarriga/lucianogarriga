@@ -5,9 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-<br>
 
-- 🌱 I’m currently learning in the "**Fullstack JavaScript Bootcamp**" of Undefined Academy (Guillermo Rodas). 
+- 🌱 I’m currently learning in the "**Fullstack JavaScript Bootcamp**" of Undefined Academy (Guillermo Rodas).  
+
+
 - 👀 I’m looking to collaborate on frontend web development project, or any blockchain project with EVM compatibility.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +26,6 @@
 </p>
 
 ### About me in code:
-<br>
 
 ``` js
 const lucianogarriga = {
@@ -38,10 +38,7 @@ const lucianogarriga = {
 
 [//]: <[![lucianogarriga's github stats](https://github-readme-stats.vercel.app/api?username=lucianogarriga)](https://github.com/anuraghazra/github-readme-stats)> 
 
-<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianogarriga&" alt="lucianogarriga" />
-
-<br> 
 
 ## Basic built-in terminal commands
 
