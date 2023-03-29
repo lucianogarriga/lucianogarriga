@@ -2,16 +2,17 @@
 
 <h3 align="center">A passionate Frontend & Blockchain developer </h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
+<br>
 
 - 🌱 I’m currently learning in the "**Fullstack JavaScript Bootcamp**" of Undefined Academy (Guillermo Rodas). 
 - 👀 I’m looking to collaborate on frontend web development project, or any blockchain project with EVM compatibility.
 
-
 <h3 align="left">Languages and Tools:</h3>
+<br>
+
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -23,9 +24,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
 </p>
 
-
-
-### About me in code
+### About me in code:
+<br>
 
 ``` js
 const lucianogarriga = {
@@ -38,9 +38,8 @@ const lucianogarriga = {
 
 [//]: <[![lucianogarriga's github stats](https://github-readme-stats.vercel.app/api?username=lucianogarriga)](https://github.com/anuraghazra/github-readme-stats)> 
 
+<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianogarriga&" alt="lucianogarriga" />
-
-
 
 <br> 
 
