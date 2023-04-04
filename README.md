@@ -1,4 +1,4 @@
-## Hi, I’m Luciano 👋:curly_haired_man::computer:
+## Hi, I’m Luciano 👋:computer:
 
 <h3 align="center">A passionate Frontend & Blockchain developer </h3>
 
