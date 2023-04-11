@@ -3,8 +3,9 @@
 <h3 align="center">A passionate Frontend & Blockchain developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p>
+<br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - I’m currently learning in the "**Fullstack JavaScript Bootcamp**" of Undefined Academy.  
 - I am a passionate frontend web developer with a strong interest in blockchain technology and Web3. 
