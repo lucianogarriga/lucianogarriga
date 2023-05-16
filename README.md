@@ -11,7 +11,7 @@
 - I am a passionate frontend web developer with a strong interest in blockchain technology and Web3. 
 - I am eager to contribute my skills and knowledge to a project as a frontend developer. 
 - I believe that blockchain technology is the future of the internet and I am excited to be a part of this revolutionary field. 
-- Let's work together to build decentralized applications that change the world!
+- Let's make some code that change the world!
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
