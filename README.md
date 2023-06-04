@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate Frontend & Blockchain developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogarriga&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogarriga" /> 
+</p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
@@ -37,9 +38,11 @@ const lucianogarriga = {
   challenge: [Student at Alchemy University - Web3 Bootcamp]
 }
 ```
-
 [//]: <[![lucianogarriga's github stats](https://github-readme-stats.vercel.app/api?username=lucianogarriga)](https://github.com/anuraghazra/github-readme-stats)> 
-
+ 
+ 
+![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianogarriga&show_icons=true)
+  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianogarriga&" alt="lucianogarriga" />
 
 ## Basic built-in terminal commands
