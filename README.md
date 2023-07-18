@@ -8,11 +8,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 
-- I’m currently learning in the "**Fullstack JavaScript Bootcamp**" of Undefined Academy.  
+- I'm currently learning at the Fullstack JavaScript Bootcamp at Undefined Academy.  
 - I am a passionate frontend web developer with a strong interest in blockchain technology and Web3. 
 - I am eager to contribute my skills and knowledge to a project as a frontend developer. 
 - I believe that blockchain technology is the future of the internet and I am excited to be a part of this revolutionary field. 
-- Let's make some code that change the world!
+- Let's write some code that changes the world!
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
