@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 
-- Currently pursuing a Bachelor's Degree in Computer Science at UNNE (School of Engineering), Argentina.. 
+- Currently pursuing a Bachelor's Degree in Computer Science at UNNE (School of Engineering), Argentina. 
 - I'm passionate in frontend web development.
 - I'm eager to contribute my skills and knowledge to a project as a frontend developer. 
 - I'm interest in blockchain technology and Web3. 
