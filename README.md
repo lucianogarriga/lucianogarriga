@@ -33,9 +33,9 @@
 ``` js
 const lucianogarriga = {
   pronouns: "he" | "him",
-  code: [Solidity, Javascript, HTML, CSS],
-  tools: [React, Node, Styled-Components, Bootstrap, SASS],
-  challenge: [Student at Alchemy University - Web3 Bootcamp]
+  code: [HTML, CSS, Javascript, C, Node, Solidity ],
+  tools: [React, Vue, Vuetify, Bootstrap, Tailwind, SASS],
+  studies: [Computer Science Degree at National University of the Northeast - UNNE]
 }
 ```
  
