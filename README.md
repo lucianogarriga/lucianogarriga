@@ -1,4 +1,4 @@
-## Hi, I’m Luciano 👋:computer:
+## Hi, I’m Luciano 👋
 
 <h3 align="center">A passionate Frontend & Blockchain developer </h3>
 
